@@ -1,0 +1,27 @@
+# Research data and local databases
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.csv
+*.tsv
+*.parquet
+*.json
+*.jsonl
+*.ndjson
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+data/
+raw_data/
+outputs/
+logs/
+# Local Python/environment files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
